@@ -2,8 +2,6 @@
 
 A simple and responsive e-commerce website built using HTML, CSS, and JavaScript. This website allows users to browse products, add items to their cart, and proceed to checkout. It is designed to be a lightweight, client-side application with basic functionality for an online store.
 
-https://67429b45969e400f242ea4a8--silver-faloodeh-f54d36.netlify.app/
-
 
 <h3>Features</h3>
 
